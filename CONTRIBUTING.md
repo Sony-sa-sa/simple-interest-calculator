@@ -1,31 +1,17 @@
-# Contributing
+# Contributing to Simple Interest Calculator
 
-All contributions, bug reports, bug fixes, documentation improvements,
-enhancements, and ideas are welcome.
+All contributions, bug reports, bug fixes, documentation improvements, enhancements, and ideas are welcome.
 
 ## How to Contribute
-
-1. Fork the repository.
-2. Create a new branch for your feature or fix:
-   `git checkout -b my-feature-branch`
-3. Make your changes and commit them with a clear message.
-4. Push your branch to your forked repository:
-   `git push origin my-feature-branch`
-5. Open a Pull Request against the `main` branch of this repository.
+1. Fork the repository
+2. Create a new branch (git checkout -b feature/your-feature)
+3. Make your changes
+4. Commit your changes (git commit -m "Description of changes")
+5. Push to your fork (git push origin feature/your-feature)
+6. Open a Pull Request
 
 ## Reporting Bugs
-
-If you find a bug, please open an issue describing:
-- What you expected to happen
-- What actually happened
-- Steps to reproduce the issue
+Please open an issue describing the bug, steps to reproduce it, and expected behavior.
 
 ## Code Style
-
-Please keep code clean, commented, and consistent with the existing style in
-the repository.
-
-## Questions
-
-If you have any questions, feel free to open an issue and we'll be happy to
-help.
+Please keep Bash scripts POSIX-compliant where possible and add comments for clarity.
